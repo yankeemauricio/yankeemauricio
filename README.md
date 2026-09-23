@@ -1,4 +1,4 @@
-# Yankee de Macedo
+# Oi, eu sou Yankee de Macedo!
 
 Sou **Desenvolvedor Fullstack** e graduando no Bacharelado em Ciência e Tecnologia (BCT) pela UFRN. Atualmente, atuo como Programador no Centro de Tecnologia da UFRN. Transito entre a pesquisa acadêmica de excelência e a construção de softwares do mundo real, com forte foco na arquitetura de sistemas escaláveis, criação de APIs e desenvolvimento de interfaces interativas.
 
